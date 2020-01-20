@@ -1,1 +1,1 @@
-### Capstone Project of IBM Data Science Certificate
+Capstone Project of IBM Data Science Certificate
