@@ -1,8 +1,8 @@
-PostalCode,Neighbourhood,Latitude,Longitude
+FSA,Neighbourhood,Latitude,Longitude
 T2P,"City Centre, Calgary Tower",51.0472,-114.0802
 T3M,Cranston,50.88,-113.955
 T3N,Northeast,51.163,-113.954
-T3R,Northwest,51.202,-114.245
+T3R,Northwest,51.179700000000004,-114.1595
 T1Y,"Rundle, Whitehorn, Monterey Park",51.082,-113.958
 T2E,"Bridgeland, Greenview, Zoo, YYC",51.088,-114.021
 T2H,"Highfield, Burns Industrial",50.9857,-114.0631
@@ -16,7 +16,7 @@ T2X,"Midnapore, Sundance",50.884,-114.033
 T2Y,"Millrise, Somerset, Bridlewood, Evergreen",50.909,-114.103
 T3C,"Rosscarrock, Wildwood, Shaganappi, Sunalta",51.05,-114.139
 T3E,"Lakeview, Glendale, Killarney, Glamorgan",51.0227,-114.1342
-T3L,"Tuscany, Scenic Acres",51.147,-114.313
+T3L,"Tuscany, Scenic Acres",51.1162,-114.2289
 T3P,Symons Valley,51.207,-114.135
 T2M,"Mount Pleasant, Capitol Hill, Banff Trail",51.0696,-114.0862
 T2S,"Elbow Park, Britannia, Parkhill, Mission",51.023,-114.071
